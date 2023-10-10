@@ -22,9 +22,6 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm Jim. I'm software enginer and data analyst. You can contact me on <a href="https://www.linkedin.com/in/dtsaousis/"> Linkedin.</a> </p>
-        <p>
-          Read my new <Link href="./posts/first-post">post!</Link>
-        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
