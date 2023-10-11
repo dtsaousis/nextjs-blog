@@ -1,5 +1,5 @@
 ---
-title: 'The Python Tutoria'
+title: 'The Python Tutorial'
 date: '2023-10-11'
 ---
 
